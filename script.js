@@ -25,7 +25,6 @@ const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
 
 // starting conditions
-
 let currentScore;
 let activePlayer;
 let playing;
